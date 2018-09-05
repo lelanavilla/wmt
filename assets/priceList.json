@@ -1,0 +1,4216 @@
+﻿[
+    {
+        "item_num": "681-4",
+        "description": "A/C Changeover (Convert)",
+        "type": "Car",
+        "price": "$129.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "684",
+        "description": "A/C Clutch",
+        "type": "Car",
+        "price": "$30.99",
+        "core_deposit": "$3.99"
+    },
+    {
+        "item_num": "682-1",
+        "description": "A/C Compressor (All)",
+        "type": "Car",
+        "price": "$39.99",
+        "core_deposit": "$8.99"
+    },
+    {
+        "item_num": "679",
+        "description": "A/C Condenser",
+        "type": "Car",
+        "price": "$32.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "683-2",
+        "description": "A/C Double Hose",
+        "type": "Car",
+        "price": "$25.89",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "681-3",
+        "description": "A/C Dryer",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "681-2",
+        "description": "A/C Duct",
+        "type": "Car",
+        "price": "$6.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "680",
+        "description": "A/C Evaporator",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "683-1",
+        "description": "A/C Single Hose",
+        "type": "Car",
+        "price": "$15.09",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "681-1",
+        "description": "A/C Suitcase Housing",
+        "type": "Car",
+        "price": "$21.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "332-1A",
+        "description": "Aftermkt Exhst Or T-Pipe",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "332-2A",
+        "description": "Aftermkt Exhst Pipe/Ypipe",
+        "type": "Car",
+        "price": "$17.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "328-3A",
+        "description": "Aftermkt Muff &Exhst Pipe",
+        "type": "Car",
+        "price": "$34.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "253",
+        "description": "Air Bag (Each)",
+        "type": "Car",
+        "price": "$44.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "319-1",
+        "description": "Air Cleaner",
+        "type": "Car",
+        "price": "$20.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "319-3",
+        "description": "Air Cleaner Filter",
+        "type": "Car",
+        "price": "$3.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "319-2",
+        "description": "Air Cleaner Top",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "522",
+        "description": "Air Compressor(Air Susp'N)",
+        "type": "Car",
+        "price": "$38.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "523",
+        "description": "Air Suspension Control Mod",
+        "type": "Car",
+        "price": "$49.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "601",
+        "description": "Alternator",
+        "type": "Car",
+        "price": "$24.99",
+        "core_deposit": "$6.99"
+    },
+    {
+        "item_num": "639",
+        "description": "Amplifier / Eq - Audio",
+        "type": "Car",
+        "price": "$39.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "645-2",
+        "description": "Antenna (Manual)",
+        "type": "Car",
+        "price": "$6.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "645-3",
+        "description": "Antenna (Power)",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "645-1",
+        "description": "Antenna (Screw On Manl Typ)",
+        "type": "Car",
+        "price": "$5.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "706",
+        "description": "Antifreeze",
+        "type": "Car",
+        "price": "$3.19",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "799",
+        "description": "Any Hats",
+        "type": "Car",
+        "price": "$6.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "200-1",
+        "description": "Ash Tray",
+        "type": "Car",
+        "price": "$6.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "490-3",
+        "description": "Axle C.V. Compl W/Hub/Spin",
+        "type": "Car",
+        "price": "$66.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "490-1",
+        "description": "Axle C.V. Stub (Joint)",
+        "type": "Car",
+        "price": "$25.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "490-2",
+        "description": "Axle C.V. Type (Fwd)",
+        "type": "Car",
+        "price": "$29.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "434-1",
+        "description": "Axle Ft Assy Compl 4X4 Pu",
+        "type": "Pick-Up/Van",
+        "price": "$259.99",
+        "core_deposit": "$29.99"
+    },
+    {
+        "item_num": "434-2",
+        "description": "Axle Ft Assy W/Ohubs/Drm4X4",
+        "type": "Pick-Up/Van",
+        "price": "$185.99",
+        "core_deposit": "$19.99"
+    },
+    {
+        "item_num": "447-1",
+        "description": "Axle Shaft (Solid Type)",
+        "type": "Car",
+        "price": "$36.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "447-2",
+        "description": "Axle Shaft - 4X4",
+        "type": "Pick-Up/Van",
+        "price": "$37.99",
+        "core_deposit": "$3.99"
+    },
+    {
+        "item_num": "476P",
+        "description": "Axle Truck Strt (Bare) P/U",
+        "type": "Pick-Up/Van",
+        "price": "$54.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "506-2",
+        "description": "Ball Joint",
+        "type": "Car",
+        "price": "$3.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "600-2",
+        "description": "Battery (Reconditioned)",
+        "type": "Car",
+        "price": "$39.99",
+        "core_deposit": "$12.99"
+    },
+    {
+        "item_num": "600-1",
+        "description": "Battery (Used)",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$12.99"
+    },
+    {
+        "item_num": "600-3",
+        "description": "Battery Box",
+        "type": "Car",
+        "price": "$10.79",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "600-4",
+        "description": "Battery Cable",
+        "type": "Car",
+        "price": "$5.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "580-1",
+        "description": "Beauty Ring",
+        "type": "Car",
+        "price": "$4.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "155-2B",
+        "description": "Bed Liner (Large)",
+        "type": "Pick-Up/Van",
+        "price": "$44.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "155-2C",
+        "description": "Bed Liner (Like New)",
+        "type": "Pick-Up/Van",
+        "price": "$57.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "155-2A",
+        "description": "Bed Liner (Small)",
+        "type": "Pick-Up/Van",
+        "price": "$34.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "408",
+        "description": "Bell Housing",
+        "type": "Car",
+        "price": "$39.99",
+        "core_deposit": "$3.99"
+    },
+    {
+        "item_num": "342-1B",
+        "description": "Bracket - Over 4In To 8In",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "342-1C",
+        "description": "Bracket - Over 8In",
+        "type": "Car",
+        "price": "$15.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "342-1A",
+        "description": "Bracket - Up To 4In",
+        "type": "Car",
+        "price": "$6.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "545-1",
+        "description": "Brake Abs Controller",
+        "type": "Car",
+        "price": "$67.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "543",
+        "description": "Brake Backing Plate",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "536",
+        "description": "Brake Caliper",
+        "type": "Car",
+        "price": "$19.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "533-1",
+        "description": "Brake Drum W/Hub",
+        "type": "Car",
+        "price": "$19.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "533-1P",
+        "description": "Brake Drum W/Hub",
+        "type": "Pick-Up/Van",
+        "price": "$24.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "533-2",
+        "description": "Brake Drum W/O Hub",
+        "type": "Car",
+        "price": "$14.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "533-2P",
+        "description": "Brake Drum W/O Hub",
+        "type": "Pick-Up/Van",
+        "price": "$19.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "534-1",
+        "description": "Brake Emergency Cable",
+        "type": "Car",
+        "price": "$16.19",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "534-2",
+        "description": "Brake Emergency Cbl+Ped/Hnd",
+        "type": "Car",
+        "price": "$21.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "166-3",
+        "description": "Brake Light(3Rd Hi Mount)",
+        "type": "Car",
+        "price": "$16.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "534-3",
+        "description": "Brake Line Or Hose",
+        "type": "Car",
+        "price": "$6.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "541-2",
+        "description": "Brake Master Cyl &Booster",
+        "type": "Car",
+        "price": "$39.99",
+        "core_deposit": "$3.99"
+    },
+    {
+        "item_num": "541-1",
+        "description": "Brake Master Cylinder",
+        "type": "Car",
+        "price": "$21.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "541-3",
+        "description": "Brake Power Or Hydro Boostr",
+        "type": "Car",
+        "price": "$22.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "535-1",
+        "description": "Brake Proportioning Valve",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "530-1",
+        "description": "Brake Rotor W/Hub",
+        "type": "Car",
+        "price": "$14.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "530-1P",
+        "description": "Brake Rotor W/Hub",
+        "type": "Pick-Up/Van",
+        "price": "$24.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "530-2",
+        "description": "Brake Rotor W/O Hub",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "530-2P",
+        "description": "Brake Rotor W/O Hub",
+        "type": "Pick-Up/Van",
+        "price": "$21.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "542",
+        "description": "Brake Shoe Or Pad (Each)",
+        "type": "Car",
+        "price": "$1.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "528-1",
+        "description": "Brake Spring/Hardware(Ea)",
+        "type": "Car",
+        "price": "$2.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "528-2",
+        "description": "Brake Wheel Cylinder",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "148-2P",
+        "description": "Brush Guard",
+        "type": "Pick-Up/Van",
+        "price": "$34.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "148-2C",
+        "description": "Brush Guard Chrome",
+        "type": "Car",
+        "price": "$39.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "148-4",
+        "description": "Bug Shield - Hood",
+        "type": "Car",
+        "price": "$11.89",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "114-7",
+        "description": "Bulb-(Misc Types) Each",
+        "type": "Car",
+        "price": "$0.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "114-8",
+        "description": "Bulb-Headlt (Sealed Beam)",
+        "type": "Car",
+        "price": "$3.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "114-9",
+        "description": "Bulb-Headlt Compst Type",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "108",
+        "description": "Bumper Absorber",
+        "type": "Car",
+        "price": "$7.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "106-3",
+        "description": "Bumper Bracket",
+        "type": "Car",
+        "price": "$6.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "105-1",
+        "description": "Bumper Comp (No Absorbers)",
+        "type": "Car",
+        "price": "$49.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "105-1P",
+        "description": "Bumper Comp (No Absorbers)",
+        "type": "Pick-Up/Van",
+        "price": "$54.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "190",
+        "description": "Bumper Cover (Plast/Rubr)",
+        "type": "Car",
+        "price": "$45.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "106-2",
+        "description": "Bumper End/Valance",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "106-1",
+        "description": "Bumper Guard",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "107",
+        "description": "Bumper Reinfrcmt-All Type",
+        "type": "Car",
+        "price": "$23.99",
+        "core_deposit": "$3.99"
+    },
+    {
+        "item_num": "506-8",
+        "description": "Bushing-Large Over 1",
+        "type": "Car",
+        "price": "$3.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "506-7",
+        "description": "Bushing-Small Up To 1”Od-Ea",
+        "type": "Car",
+        "price": "$2.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "155-3B",
+        "description": "Camper/Canopy Shell (Lrg)",
+        "type": "Car",
+        "price": "$145.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "155-3A",
+        "description": "Camper/Canopy Shell (Sml)",
+        "type": "Car",
+        "price": "$85.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "155-3C",
+        "description": "Camper/Cnpy Shell(Lk New)",
+        "type": "Car",
+        "price": "$205.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "305-1",
+        "description": "Camshaft (Bare)",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "305-2",
+        "description": "Camshaft Overhd Type Assy",
+        "type": "Car",
+        "price": "$32.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "178",
+        "description": "Caps (Oil/Gas/Water)",
+        "type": "Car",
+        "price": "$2.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "320-8",
+        "description": "Carb - High Perf",
+        "type": "Car",
+        "price": "$56.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "337",
+        "description": "Carb Fuel Inj/Thrtl Bdy",
+        "type": "Car",
+        "price": "$44.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "234-2",
+        "description": "Carb Throttle Cable/Link",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "320-3",
+        "description": "Carburetor 1 Barrel",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "320-2",
+        "description": "Carburetor 2 Barrel",
+        "type": "Car",
+        "price": "$39.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "320-1",
+        "description": "Carburetor 4 Barrel",
+        "type": "Car",
+        "price": "$44.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "148-3P",
+        "description": "Cargo Net",
+        "type": "Pick-Up/Van",
+        "price": "$8.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "222",
+        "description": "Carpet Large (Over 3 Ft)",
+        "type": "Car",
+        "price": "$14.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "223",
+        "description": "Carpet Small (Under 3 Ft)",
+        "type": "Car",
+        "price": "$9.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "639-4",
+        "description": "Cd Cassette Sleeve (Ea)",
+        "type": "Car",
+        "price": "$2.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "639-2",
+        "description": "Cd Changer Complete",
+        "type": "Car",
+        "price": "$40.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "639-3",
+        "description": "Cd Changer Magazine",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "580-2",
+        "description": "Center Cap",
+        "type": "Car",
+        "price": "$3.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "200-2",
+        "description": "Cigarette Lighter",
+        "type": "Car",
+        "price": "$3.19",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "256",
+        "description": "Clock/ Small Gauges Each",
+        "type": "Car",
+        "price": "$9.69",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "406-1",
+        "description": "Clutch Cable",
+        "type": "Car",
+        "price": "$21.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "406",
+        "description": "Clutch Cover (Pressr Plt)",
+        "type": "Car",
+        "price": "$17.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "410",
+        "description": "Clutch Disc",
+        "type": "Car",
+        "price": "$17.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "406-2",
+        "description": "Clutch Equalizer Arm",
+        "type": "Car",
+        "price": "$20.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "417",
+        "description": "Clutch Master Cylinder",
+        "type": "Car",
+        "price": "$20.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "418",
+        "description": "Clutch Slave Cylinder",
+        "type": "Car",
+        "price": "$20.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "610-1",
+        "description": "Coil Ignition",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "610-2",
+        "description": "Coil Ignition Pack(Combo)",
+        "type": "Car",
+        "price": "$47.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "610-3",
+        "description": "Coil W/Ignitor Comb(Single)",
+        "type": "Car",
+        "price": "$32.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "319-5",
+        "description": "Cold Air Intake",
+        "type": "Car",
+        "price": "$16.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "590",
+        "description": "Computer Brain Box",
+        "type": "Car",
+        "price": "$49.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "241-2",
+        "description": "Console Cover",
+        "type": "Car",
+        "price": "$6.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "241-3",
+        "description": "Console Large(>16In Long)",
+        "type": "Car",
+        "price": "$28.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "241-1",
+        "description": "Console Small(Up To 16In)",
+        "type": "Car",
+        "price": "$20.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "506-1",
+        "description": "Control Arm (Each)",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "591",
+        "description": "Control Module",
+        "type": "Car",
+        "price": "$20.99",
+        "core_deposit": "$3.99"
+    },
+    {
+        "item_num": "109-1",
+        "description": "Core Support - Unbolt",
+        "type": "Car",
+        "price": "$42.09",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "109-2",
+        "description": "Core Support-Rad/Inn St",
+        "type": "Car",
+        "price": "$52.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "303",
+        "description": "Crankshaft",
+        "type": "Car",
+        "price": "$50.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "629-5",
+        "description": "Cruise Control Lever",
+        "type": "Car",
+        "price": "$7.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "249",
+        "description": "Cup Holder",
+        "type": "Car",
+        "price": "$5.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "250",
+        "description": "Dash Assy Compl(No Radio)",
+        "type": "Car",
+        "price": "$67.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "252",
+        "description": "Dash Pad",
+        "type": "Car",
+        "price": "$29.19",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "174",
+        "description": "Deck Lid Hinge (Each)",
+        "type": "Car",
+        "price": "$11.89",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "181-4",
+        "description": "Deck Lid Latch (Electric)",
+        "type": "Car",
+        "price": "$19.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "181-3",
+        "description": "Deck Lid Latch Assy (Man)",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "170",
+        "description": "Deck/Trunk Lid (No Glass)",
+        "type": "Car",
+        "price": "$39.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "301-1",
+        "description": "Dipstick Or Tube",
+        "type": "Car",
+        "price": "$5.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "606-3",
+        "description": "Distributor Cap (Reg)",
+        "type": "Car",
+        "price": "$4.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "606-4",
+        "description": "Distributor Cap-Hei W/Coil",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "606-5",
+        "description": "Distributor Module",
+        "type": "Car",
+        "price": "$16.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "606-1",
+        "description": "Distributor Only(Point St)",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "606-2",
+        "description": "Distributor(Elec) W/O Cap",
+        "type": "Car",
+        "price": "$39.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "200-3",
+        "description": "Dome  Light (Lens Only)",
+        "type": "Car",
+        "price": "$5.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "200-4",
+        "description": "Dome Light Assembly",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "225-1",
+        "description": "Door Arm Rest",
+        "type": "Car",
+        "price": "$8.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "120",
+        "description": "Door Assy W/Hinges(Cmplt)",
+        "type": "Car",
+        "price": "$50.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "120P",
+        "description": "Door Assy W/Hinges(Cmplt)",
+        "type": "Pick-Up/Van",
+        "price": "$60.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "129-1",
+        "description": "Door Handle (Outside)",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "124",
+        "description": "Door Hinge",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "181-6",
+        "description": "Door Lock Assy W/O Solend",
+        "type": "Car",
+        "price": "$18.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "181-7",
+        "description": "Door Lock Assy W/Solenoid",
+        "type": "Car",
+        "price": "$29.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "181-8",
+        "description": "Door Lock Cylinder",
+        "type": "Car",
+        "price": "$4.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "113-2",
+        "description": "Door Rubber",
+        "type": "Car",
+        "price": "$5.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "181-9",
+        "description": "Door Striker",
+        "type": "Car",
+        "price": "$3.19",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "225-2",
+        "description": "Door Trim Panel",
+        "type": "Car",
+        "price": "$19.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "129-2",
+        "description": "Door/Window Handle Inside",
+        "type": "Car",
+        "price": "$7.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "525-1",
+        "description": "Drag Link (Center Rod)",
+        "type": "Car",
+        "price": "$25.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "431-2",
+        "description": "Drive Shaft - 2 Piece",
+        "type": "Car",
+        "price": "$48.59",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "431-2P",
+        "description": "Drive Shaft - 2 Piece",
+        "type": "Pick-Up/Van",
+        "price": "$69.09",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "431-3",
+        "description": "Drive Shaft Carrier Bearing",
+        "type": "Car",
+        "price": "$18.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "431-1",
+        "description": "Drive Shaft-1 Piece Reg",
+        "type": "Car",
+        "price": "$35.59",
+        "core_deposit": "$3.99"
+    },
+    {
+        "item_num": "431-1P",
+        "description": "Drive Shaft-1 Piece Reg",
+        "type": "Pick-Up/Van",
+        "price": "$42.09",
+        "core_deposit": "$3.99"
+    },
+    {
+        "item_num": "320-4",
+        "description": "E.G.R. Carb Spacer",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "317-1",
+        "description": "E.G.R. Valve (Double)",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "317-2",
+        "description": "E.G.R. Valve (Single)",
+        "type": "Car",
+        "price": "$15.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "317-3",
+        "description": "Egr Tree",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "633-2",
+        "description": "Electronic Ignition Box",
+        "type": "Car",
+        "price": "$25.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "134",
+        "description": "Emblem",
+        "type": "Car",
+        "price": "$5.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "300-4",
+        "description": "Engine Carb W/Access",
+        "type": "Car",
+        "price": "$169.99",
+        "core_deposit": "$49.99"
+    },
+    {
+        "item_num": "328-4",
+        "description": "Engine Cover-Inside (Van)",
+        "type": "Pick-Up/Van",
+        "price": "$30.19",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "300-D",
+        "description": "Engine Diesel Long Block",
+        "type": "Car",
+        "price": "$237.59",
+        "core_deposit": "$49.99"
+    },
+    {
+        "item_num": "300-4D",
+        "description": "Engine Diesel W/Access",
+        "type": "Car",
+        "price": "$259.19",
+        "core_deposit": "$49.99"
+    },
+    {
+        "item_num": "300-4F",
+        "description": "Engine F-Inj W/Access",
+        "type": "Car",
+        "price": "$169.99",
+        "core_deposit": "$49.99"
+    },
+    {
+        "item_num": "300-2",
+        "description": "Engine Long Block",
+        "type": "Car",
+        "price": "$149.99",
+        "core_deposit": "$29.99"
+    },
+    {
+        "item_num": "300-1",
+        "description": "Engine Short Block",
+        "type": "Car",
+        "price": "$119.99",
+        "core_deposit": "$19.99"
+    },
+    {
+        "item_num": "331-1",
+        "description": "Exhaust Heat Pipe",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "328-2",
+        "description": "Exhaust Heat Shield",
+        "type": "Car",
+        "price": "$11.89",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "332-1",
+        "description": "Exhaust Or Tailpipe",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "332-2",
+        "description": "Exhaust Pipe - Y Pipe",
+        "type": "Car",
+        "price": "$17.29",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "331-2",
+        "description": "Exhaust Smog Tube",
+        "type": "Car",
+        "price": "$16.19",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "326-2",
+        "description": "Fan Belt (V Type)",
+        "type": "Car",
+        "price": "$3.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "326-3",
+        "description": "Fan Belt(Serpentine Type)",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "325-2",
+        "description": "Fan Blade W/Clutch(Combo)",
+        "type": "Car",
+        "price": "$23.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "325-1",
+        "description": "Fan Blade W/O Clutch",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "326-1",
+        "description": "Fan Clutch",
+        "type": "Car",
+        "price": "$16.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "672-2",
+        "description": "Fan Elec Assy W/Dual Fan",
+        "type": "Car",
+        "price": "$42.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "672-1",
+        "description": "Fan Elec Assy W/Sngle Fan",
+        "type": "Car",
+        "price": "$31.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "673",
+        "description": "Fan Shroud - All",
+        "type": "Car",
+        "price": "$18.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "110-3",
+        "description": "Fender (Inner)",
+        "type": "Car",
+        "price": "$17.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "111",
+        "description": "Fender Ext/Flare (Frt/Rr)",
+        "type": "Car",
+        "price": "$18.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "110-2",
+        "description": "Fender Skirt",
+        "type": "Car",
+        "price": "$31.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "110-1",
+        "description": "Fender W/O Inner & Headlt",
+        "type": "Car",
+        "price": "$49.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "110-1P",
+        "description": "Fender W/O Inner & Headlt",
+        "type": "Pick-Up/Van",
+        "price": "$55.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "200-5",
+        "description": "Floor Mat",
+        "type": "Car",
+        "price": "$2.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "409-1",
+        "description": "Flywheel (All)",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "409-2",
+        "description": "Flywheel Cover",
+        "type": "Car",
+        "price": "$6.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "141",
+        "description": "Fog Lamps Each",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "141A",
+        "description": "Fog Lamps Each Oem",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "500-2",
+        "description": "Frame - Full (Bare)",
+        "type": "Car",
+        "price": "$271.09",
+        "core_deposit": "$24.99"
+    },
+    {
+        "item_num": "500-1",
+        "description": "Frame - Sub (Bare)",
+        "type": "Car",
+        "price": "$82.09",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "500-3",
+        "description": "Frame K Type/Engine Cradle",
+        "type": "Car",
+        "price": "$61.59",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "501",
+        "description": "Frame-Sub W/Susp&Strng Comp",
+        "type": "Car",
+        "price": "$164.09",
+        "core_deposit": "$9.99"
+    },
+    {
+        "item_num": "100",
+        "description": "Front End Assy W/Rad & Bu",
+        "type": "Car",
+        "price": "$260.29",
+        "core_deposit": "$39.99"
+    },
+    {
+        "item_num": "100P",
+        "description": "Front End Assy W/Rad & Bu",
+        "type": "Pick-Up/Van",
+        "price": "$313.19",
+        "core_deposit": "$39.99"
+    },
+    {
+        "item_num": "319-4",
+        "description": "Fuel Filter",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "370",
+        "description": "Fuel Injection Distributr",
+        "type": "Car",
+        "price": "$42.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "370-5",
+        "description": "Fuel Injection Spider Typ",
+        "type": "Car",
+        "price": "$60.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "371-1",
+        "description": "Fuel Injector (Each)",
+        "type": "Car",
+        "price": "$6.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "373-1",
+        "description": "Fuel Line",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "323-5",
+        "description": "Fuel Pressure Regulator",
+        "type": "Car",
+        "price": "$8.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "323-2",
+        "description": "Fuel Pump (Electric)",
+        "type": "Car",
+        "price": "$29.19",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "323-1",
+        "description": "Fuel Pump (Mechanical)",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "177",
+        "description": "Fuel Tank Filler Door",
+        "type": "Car",
+        "price": "$9.69",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "179",
+        "description": "Fuel Tank Filler Neck",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "637-1",
+        "description": "Fuel Tank Sender",
+        "type": "Car",
+        "price": "$25.89",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "637-2",
+        "description": "Fuel Tank Sender W/Pump",
+        "type": "Car",
+        "price": "$34.59",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "637-3",
+        "description": "Fuel Tank Switch Unit-Dual",
+        "type": "Car",
+        "price": "$8.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "197",
+        "description": "Fuel Tank(May Be Punctrd)",
+        "type": "Car",
+        "price": "$31.99",
+        "core_deposit": "$5.99"
+    },
+    {
+        "item_num": "646-1",
+        "description": "Fuse Box (Bare)",
+        "type": "Car",
+        "price": "$19.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "646-3",
+        "description": "Fuse Box Cover",
+        "type": "Car",
+        "price": "$7.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "646-2",
+        "description": "Fuse Box With Harness",
+        "type": "Car",
+        "price": "$38.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "180-2",
+        "description": "Gate-Pu/Va/Sw(Upper W/Gl)",
+        "type": "Car",
+        "price": "$60.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "180-1",
+        "description": "Gate-Pu/Van(Lower No Gls)",
+        "type": "Pick-Up/Van",
+        "price": "$53.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "180-3",
+        "description": "Gate-Stn Wagon Lower W/Gl",
+        "type": "Car",
+        "price": "$48.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "603",
+        "description": "Generator",
+        "type": "Car",
+        "price": "$25.99",
+        "core_deposit": "$6.99"
+    },
+    {
+        "item_num": "275-1",
+        "description": "Glass Back (Only)",
+        "type": "Car",
+        "price": "$37.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "277",
+        "description": "Glass Door (Bare)",
+        "type": "Car",
+        "price": "$29.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "284-1",
+        "description": "Glass Quarter (Car)",
+        "type": "Car",
+        "price": "$28.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "284-2",
+        "description": "Glass Quarter (Sw/Va/Suv)",
+        "type": "Car",
+        "price": "$40.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "280-1",
+        "description": "Glass Vent",
+        "type": "Car",
+        "price": "$20.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "280-2",
+        "description": "Glass Vent Assembly",
+        "type": "Car",
+        "price": "$28.09",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "275-2",
+        "description": "Glass Window Slidng-Pu/Va",
+        "type": "Pick-Up/Van",
+        "price": "$40.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "270",
+        "description": "Glass Windshield",
+        "type": "Car",
+        "price": "$44.29",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "206-1",
+        "description": "Glove Box Door",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "206-2",
+        "description": "Glove Box Insert",
+        "type": "Car",
+        "price": "$6.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "206-3",
+        "description": "Glove Box Lock",
+        "type": "Car",
+        "price": "$3.19",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "643",
+        "description": "Glow Plug",
+        "type": "Car",
+        "price": "$4.29",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "104-3",
+        "description": "Gravel Shield - Valance",
+        "type": "Car",
+        "price": "$26.89",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "104-2",
+        "description": "Grill Metal (Bare)",
+        "type": "Car",
+        "price": "$29.19",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "104-2P",
+        "description": "Grill Metal (Bare)",
+        "type": "Pick-Up/Van",
+        "price": "$34.59",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "104-1",
+        "description": "Grill Plastic (Bare)",
+        "type": "Car",
+        "price": "$23.79",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "104-1P",
+        "description": "Grill Plastic (Bare)",
+        "type": "Pick-Up/Van",
+        "price": "$34.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "309",
+        "description": "Harmonic Balancer",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "172",
+        "description": "Hatch Or Hood Shock",
+        "type": "Car",
+        "price": "$9.69",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "275-3",
+        "description": "Hatch W/Glass (Car Type)",
+        "type": "Car",
+        "price": "$55.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "306-7",
+        "description": "Head  Bolt Or Other",
+        "type": "Car",
+        "price": "$1.09",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "306-1",
+        "description": "Head - Aluminum W/ Cam",
+        "type": "Car",
+        "price": "$67.99",
+        "core_deposit": "$9.99"
+    },
+    {
+        "item_num": "306-2",
+        "description": "Head - Aluminum W/O Cam",
+        "type": "Car",
+        "price": "$55.99",
+        "core_deposit": "$9.99"
+    },
+    {
+        "item_num": "306-3",
+        "description": "Head - Cast Iron W/ Cam",
+        "type": "Car",
+        "price": "$50.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "306-4",
+        "description": "Head - Cast Iron W/O Cam",
+        "type": "Car",
+        "price": "$38.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "306-2D",
+        "description": "Head - Dohc W/O Cam",
+        "type": "Car",
+        "price": "$78.99",
+        "core_deposit": "$11.99"
+    },
+    {
+        "item_num": "306-1D",
+        "description": "Head - Dohc Wth Cam",
+        "type": "Car",
+        "price": "$86.99",
+        "core_deposit": "$11.99"
+    },
+    {
+        "item_num": "200-6",
+        "description": "Head Rest",
+        "type": "Car",
+        "price": "$9.69",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "224",
+        "description": "Head-Liner",
+        "type": "Car",
+        "price": "$21.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "102-1",
+        "description": "Header Panel  Steel Bare",
+        "type": "Car",
+        "price": "$40.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "102-2",
+        "description": "Header Panel Bare Fiberglas",
+        "type": "Car",
+        "price": "$66.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "102-3",
+        "description": "Header Panel Comp(Mtl/Gl)",
+        "type": "Car",
+        "price": "$91.79",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "114-1",
+        "description": "Headlight  Assy (Single)",
+        "type": "Car",
+        "price": "$18.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "114-3",
+        "description": "Headlight Assembly (Dual)",
+        "type": "Car",
+        "price": "$25.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "114-4",
+        "description": "Headlight Assy Dual W/Dr",
+        "type": "Car",
+        "price": "$30.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "630-1",
+        "description": "Headlight Bucket Or Ring",
+        "type": "Car",
+        "price": "$4.29",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "114-2C",
+        "description": "Headlight Comp (Like New)",
+        "type": "Car",
+        "price": "$42.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "114-2B",
+        "description": "Headlight Comp (Lrg)",
+        "type": "Car",
+        "price": "$32.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "114-2A",
+        "description": "Headlight Comp (Sml)",
+        "type": "Car",
+        "price": "$18.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "630-2",
+        "description": "Headlight Door (Ea)",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "619",
+        "description": "Headlight Motor",
+        "type": "Car",
+        "price": "$29.19",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "114-5",
+        "description": "Headlt Assy Flipup-No Mtr",
+        "type": "Car",
+        "price": "$37.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "114-6",
+        "description": "Headlt Assy Single W/Door",
+        "type": "Car",
+        "price": "$23.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "685-1",
+        "description": "Heater Air Duct",
+        "type": "Car",
+        "price": "$8.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "677",
+        "description": "Heater Assembly Complete",
+        "type": "Car",
+        "price": "$57.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "655-1",
+        "description": "Heater Contrl Panel(Elec)",
+        "type": "Car",
+        "price": "$29.19",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "655-3",
+        "description": "Heater Control Cable",
+        "type": "Car",
+        "price": "$5.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "655-2",
+        "description": "Heater Control Panel(Man)",
+        "type": "Car",
+        "price": "$19.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "685-2",
+        "description": "Heater Control Valve",
+        "type": "Car",
+        "price": "$8.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "676",
+        "description": "Heater Core",
+        "type": "Car",
+        "price": "$19.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "685-3",
+        "description": "Heater Hose (Per Foot)",
+        "type": "Car",
+        "price": "$2.19",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "678-1",
+        "description": "Heater Housing (Inside)",
+        "type": "Car",
+        "price": "$21.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "678-2",
+        "description": "Heater Housing (Outside)",
+        "type": "Car",
+        "price": "$21.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "615",
+        "description": "Heater Motor",
+        "type": "Car",
+        "price": "$21.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "615-1",
+        "description": "Heater Motor And Fan",
+        "type": "Car",
+        "price": "$24.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "118",
+        "description": "Hood Hinge (Each)",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "181-1",
+        "description": "Hood Latch Assembly",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "117-3",
+        "description": "Hood Prop Rod",
+        "type": "Car",
+        "price": "$4.29",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "117-1",
+        "description": "Hood Release Cable",
+        "type": "Car",
+        "price": "$15.09",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "117-2",
+        "description": "Hood Scoop Bolt On",
+        "type": "Car",
+        "price": "$16.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "117",
+        "description": "Hood W/Out Hinges",
+        "type": "Car",
+        "price": "$48.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "117P",
+        "description": "Hood W/Out Hinges",
+        "type": "Pick-Up/Van",
+        "price": "$57.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "613",
+        "description": "Horn",
+        "type": "Car",
+        "price": "$6.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "538-1",
+        "description": "Hub",
+        "type": "Car",
+        "price": "$15.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "538-1P",
+        "description": "Hub",
+        "type": "Pick-Up/Van",
+        "price": "$21.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "537",
+        "description": "Hub Locking Type 4X4 Pu/Van",
+        "type": "Pick-Up/Van",
+        "price": "$38.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "538-2",
+        "description": "Hub W/Spindle Fwd",
+        "type": "Car",
+        "price": "$31.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "580-4",
+        "description": "Hubcap",
+        "type": "Car",
+        "price": "$3.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "580-3",
+        "description": "Hubcap - Wire Type",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "609",
+        "description": "Idle Speed Motor Or Valve",
+        "type": "Car",
+        "price": "$28.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "510",
+        "description": "Idler Arm",
+        "type": "Car",
+        "price": "$18.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "633-3",
+        "description": "Ignitor",
+        "type": "Car",
+        "price": "$25.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "371-2",
+        "description": "Injector Rail(No Injectors)",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "500-4",
+        "description": "Inner Structure No Susp",
+        "type": "Car",
+        "price": "$73.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "255-1",
+        "description": "Instr Cluster Circuit Brd",
+        "type": "Car",
+        "price": "$17.29",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "255-2",
+        "description": "Instrument Cluster Assy",
+        "type": "Car",
+        "price": "$38.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "254",
+        "description": "Instrument Cluster Cover",
+        "type": "Car",
+        "price": "$14.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "200-7",
+        "description": "Int Engine Cover (Inside)",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "674",
+        "description": "Intercooler",
+        "type": "Car",
+        "price": "$55.09",
+        "core_deposit": "$9.99"
+    },
+    {
+        "item_num": "701-1",
+        "description": "Jack (Bumper Or Frame)",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "701-2",
+        "description": "Jack (Hydraulic Type)",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "702",
+        "description": "Jumper Cables",
+        "type": "Car",
+        "price": "$7.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "201",
+        "description": "Kick Panel",
+        "type": "Car",
+        "price": "$15.09",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "140",
+        "description": "Ladder",
+        "type": "Pick-Up/Van",
+        "price": "$15.09",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "175-1",
+        "description": "License Plate Brackt Assy",
+        "type": "Car",
+        "price": "$7.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "175-2",
+        "description": "License Plate Frame",
+        "type": "Car",
+        "price": "$2.69",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "180-4",
+        "description": "Lift Gate Assembly",
+        "type": "Pick-Up/Van",
+        "price": "$60.99",
+        "core_deposit": "$3.99"
+    },
+    {
+        "item_num": "200-8",
+        "description": "Lighter Socket",
+        "type": "Car",
+        "price": "$1.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "181-2",
+        "description": "Lock (Cylinder Type)",
+        "type": "Car",
+        "price": "$8.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "181-5",
+        "description": "Lock Solenoid",
+        "type": "Car",
+        "price": "$16.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "169-1",
+        "description": "Louvers Each",
+        "type": "Car",
+        "price": "$17.29",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "703",
+        "description": "Lug Wrench",
+        "type": "Car",
+        "price": "$4.29",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "704",
+        "description": "Lug-Nut",
+        "type": "Car",
+        "price": "$1.09",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "148",
+        "description": "Luggage Rack",
+        "type": "Car",
+        "price": "$29.19",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "148-1",
+        "description": "Lumber Or Pipe Rack",
+        "type": "Car",
+        "price": "$51.79",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "329-5",
+        "description": "Manifold Intake-Hiperform",
+        "type": "Car",
+        "price": "$52.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "327-1",
+        "description": "Manifold-Exhaust V6/V8/4/6 Cyl",
+        "type": "Car",
+        "price": "$36.99",
+        "core_deposit": "$3.99"
+    },
+    {
+        "item_num": "327-2",
+        "description": "Manifold-Exhst V6/V8/4/6Cyl",
+        "type": "Car",
+        "price": "$36.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "329-2",
+        "description": "Manifold-Intake 6/8 Cyl",
+        "type": "Car",
+        "price": "$38.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "329-4",
+        "description": "Manifold-Intake Compos",
+        "type": "Car",
+        "price": "$43.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "329-1",
+        "description": "Manifold-Intk 3/4Cyl Bare",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$3.99"
+    },
+    {
+        "item_num": "128-3",
+        "description": "Mirror-Door Outside(Elec)",
+        "type": "Car",
+        "price": "$28.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "128-2",
+        "description": "Mirror-Door Outside(Man)",
+        "type": "Car",
+        "price": "$17.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "128-1",
+        "description": "Mirror-Door Outside(Reg)",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "128-1P",
+        "description": "Mirror-Door Outside(Reg)",
+        "type": "Pick-Up/Van",
+        "price": "$15.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "267",
+        "description": "Mirror-Rear View Type",
+        "type": "Car",
+        "price": "$6.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "267-2",
+        "description": "Mirror-Rear View W/Electr",
+        "type": "Car",
+        "price": "$19.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "300-5",
+        "description": "Motor Mount",
+        "type": "Car",
+        "price": "$11.89",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "113-1",
+        "description": "Moulding (Per Foot)",
+        "type": "Car",
+        "price": "$4.29",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "111-2",
+        "description": "Mud Flap (Ea)",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "333",
+        "description": "Muffler",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "328-3",
+        "description": "Muffler & Exhst Pipe Comb",
+        "type": "Car",
+        "price": "$32.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "414",
+        "description": "Oil Cooler",
+        "type": "Car",
+        "price": "$20.49",
+        "core_deposit": "$3.99"
+    },
+    {
+        "item_num": "311",
+        "description": "Oil Pan",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "312",
+        "description": "Oil Pump",
+        "type": "Car",
+        "price": "$20.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "721",
+        "description": "Owners Manual",
+        "type": "Car",
+        "price": "$4.29",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "155-4P",
+        "description": "P/U Bed Rub Rails",
+        "type": "Pick-Up/Van",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "155-1B",
+        "description": "P/U Bed W/O Gate (Lrg)",
+        "type": "Pick-Up/Van",
+        "price": "$175.99",
+        "core_deposit": "$39.99"
+    },
+    {
+        "item_num": "155-1C",
+        "description": "P/U Bed W/O Gate (Prem)",
+        "type": "Pick-Up/Van",
+        "price": "$400.99",
+        "core_deposit": "$39.99"
+    },
+    {
+        "item_num": "155-1A",
+        "description": "P/U Bed W/O Gate (Sml)",
+        "type": "Pick-Up/Van",
+        "price": "$145.99",
+        "core_deposit": "$39.99"
+    },
+    {
+        "item_num": "154-1",
+        "description": "P/U Cab Without Doors",
+        "type": "Pick-Up/Van",
+        "price": "$169.99",
+        "core_deposit": "$29.99"
+    },
+    {
+        "item_num": "116-1C",
+        "description": "Park/Trnlght Assy(Lk New)",
+        "type": "Car",
+        "price": "$20.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "116-1B",
+        "description": "Park/Turnlight Assy (Lrg)",
+        "type": "Car",
+        "price": "$14.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "116-1A",
+        "description": "Park/Turnlight Assy (Sml)",
+        "type": "Car",
+        "price": "$9.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "116-2C",
+        "description": "Parklight Lens (Like New)",
+        "type": "Car",
+        "price": "$17.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "116-2B",
+        "description": "Parklight Lens (Lrg)",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "116-2A",
+        "description": "Parklight Lens (Sml)",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "204-1",
+        "description": "Pedal (Brake/Clutch)",
+        "type": "Car",
+        "price": "$14.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "204-2",
+        "description": "Pedal Brake/Clutch Assy",
+        "type": "Car",
+        "price": "$25.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "234-1",
+        "description": "Pedal Gas",
+        "type": "Car",
+        "price": "$7.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "798",
+        "description": "Pick-N-Pull Bucket",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "705",
+        "description": "Pick-N-Pull License Plate Fram",
+        "type": "Car",
+        "price": "$1.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "304",
+        "description": "Piston And Rod",
+        "type": "Car",
+        "price": "$25.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "525-2",
+        "description": "Pitman Arm",
+        "type": "Car",
+        "price": "$15.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "555",
+        "description": "Power Steering Hose(Presr)",
+        "type": "Car",
+        "price": "$10.79",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "550-1",
+        "description": "Power Steering Hose-Return",
+        "type": "Car",
+        "price": "$4.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "553",
+        "description": "Power Steering Pump (All)",
+        "type": "Car",
+        "price": "$30.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "550-2",
+        "description": "Power Steering Ram",
+        "type": "Car",
+        "price": "$38.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "553-1",
+        "description": "Power Steering Reservoir",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "310-1C",
+        "description": "Pulley Bare (Large)",
+        "type": "Car",
+        "price": "$14.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "310-1B",
+        "description": "Pulley Bare (Medium)",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "310-1A",
+        "description": "Pulley Bare (Small)",
+        "type": "Car",
+        "price": "$8.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "310-2",
+        "description": "Pulley W/ Tension Arm",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "336-2",
+        "description": "Pulse Air Feeder(Chrys Typ)",
+        "type": "Car",
+        "price": "$39.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "313",
+        "description": "Push Rod",
+        "type": "Car",
+        "price": "$3.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "160",
+        "description": "Quarter Panel",
+        "type": "Car",
+        "price": "$120.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "161",
+        "description": "Quarter Panel Extension",
+        "type": "Car",
+        "price": "$23.79",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "160-1",
+        "description": "Quarter Panel Section",
+        "type": "Car",
+        "price": "$73.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "160-2",
+        "description": "Quarter Trim Panel",
+        "type": "Car",
+        "price": "$17.79",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "551-1",
+        "description": "Rack&Pinion Steering(Man)",
+        "type": "Car",
+        "price": "$34.59",
+        "core_deposit": "$9.99"
+    },
+    {
+        "item_num": "551-2",
+        "description": "Rack&Pinion Steering(Power)",
+        "type": "Car",
+        "price": "$43.19",
+        "core_deposit": "$9.99"
+    },
+    {
+        "item_num": "675P",
+        "description": "Radiator (W/O Shrd) Truck",
+        "type": "Pick-Up/Van",
+        "price": "$54.99",
+        "core_deposit": "$10.99"
+    },
+    {
+        "item_num": "675",
+        "description": "Radiator (W/O Shroud)",
+        "type": "Car",
+        "price": "$49.99",
+        "core_deposit": "$9.99"
+    },
+    {
+        "item_num": "675-1",
+        "description": "Radiator Hose",
+        "type": "Car",
+        "price": "$4.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "675-2",
+        "description": "Radiator Over Flow Bottle",
+        "type": "Car",
+        "price": "$9.69",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "638-2B",
+        "description": "Radio - W/Cd (Aftermrkt)",
+        "type": "Car",
+        "price": "$35.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "638-2A",
+        "description": "Radio - W/Cd (Factory)",
+        "type": "Car",
+        "price": "$25.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "638-2C",
+        "description": "Radio - W/Cd (Hi End)",
+        "type": "Car",
+        "price": "$50.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "638-1A",
+        "description": "Radio - W/O Cd (Factory)",
+        "type": "Car",
+        "price": "$15.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "638-1C",
+        "description": "Radio - W/O Cd (Hi End)",
+        "type": "Car",
+        "price": "$37.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "638-1B",
+        "description": "Radio - W/O Cd(Aftermrkt)",
+        "type": "Car",
+        "price": "$25.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "148-5",
+        "description": "Rain Visor - Side",
+        "type": "Car",
+        "price": "$7.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "795",
+        "description": "Raincoat",
+        "type": "Car",
+        "price": "$8.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "435-3",
+        "description": "Rear Dead Axle(Fwd)W/Brakes",
+        "type": "Car",
+        "price": "$88.99",
+        "core_deposit": "$9.99"
+    },
+    {
+        "item_num": "435-4",
+        "description": "Rear Dead Axle(Fwd)W/O Brks",
+        "type": "Car",
+        "price": "$63.99",
+        "core_deposit": "$9.99"
+    },
+    {
+        "item_num": "440",
+        "description": "Rear End Carrier Assembly",
+        "type": "Car",
+        "price": "$63.99",
+        "core_deposit": "$7.99"
+    },
+    {
+        "item_num": "441-1",
+        "description": "Rear End Cvr-May Be Punctur",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "443",
+        "description": "Rear End Dropout 3Rd Member",
+        "type": "Car",
+        "price": "$76.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "443P",
+        "description": "Rear End Dropout 3Rd Member",
+        "type": "Pick-Up/Van",
+        "price": "$100.99",
+        "core_deposit": "$5.99"
+    },
+    {
+        "item_num": "437",
+        "description": "Rear End Housing-Car Or Trk",
+        "type": "Car",
+        "price": "$55.99",
+        "core_deposit": "$5.99"
+    },
+    {
+        "item_num": "445-1",
+        "description": "Rear End Pinion Gear",
+        "type": "Car",
+        "price": "$44.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "445-2",
+        "description": "Rear End Ring Gear",
+        "type": "Car",
+        "price": "$44.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "449-1",
+        "description": "Rear End Spider Gear (Ea)",
+        "type": "Car",
+        "price": "$17.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "435-2",
+        "description": "Rear End W/ Drums",
+        "type": "Car",
+        "price": "$108.99",
+        "core_deposit": "$14.99"
+    },
+    {
+        "item_num": "435-2P",
+        "description": "Rear End W/ Drums",
+        "type": "Pick-Up/Van",
+        "price": "$160.99",
+        "core_deposit": "$14.99"
+    },
+    {
+        "item_num": "435-1",
+        "description": "Rear End W/O Drums",
+        "type": "Car",
+        "price": "$90.99",
+        "core_deposit": "$14.99"
+    },
+    {
+        "item_num": "435-1P",
+        "description": "Rear End W/O Drums",
+        "type": "Pick-Up/Van",
+        "price": "$134.99",
+        "core_deposit": "$14.99"
+    },
+    {
+        "item_num": "444",
+        "description": "Rear End(Disc Brk Typ Comp)",
+        "type": "Car",
+        "price": "$160.99",
+        "core_deposit": "$24.99"
+    },
+    {
+        "item_num": "475-1",
+        "description": "Rear Knee Assy Fwd W/O Ax",
+        "type": "Car",
+        "price": "$50.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "614-1",
+        "description": "Relay-5 Or Less Terminals",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "614-2",
+        "description": "Relay-6 Or More Terminals",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "307-1",
+        "description": "Rocker Arm",
+        "type": "Car",
+        "price": "$4.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "307-2",
+        "description": "Rocker Arm Assembly",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "122",
+        "description": "Running Board",
+        "type": "Car",
+        "price": "$21.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "210-1",
+        "description": "Seat Belt - Per Person",
+        "type": "Car",
+        "price": "$14.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "210-2",
+        "description": "Seat Belt Elec(Automtc)Ea",
+        "type": "Car",
+        "price": "$32.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "210-4",
+        "description": "Seat Belt Lock/Latch/End",
+        "type": "Car",
+        "price": "$8.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "210-3",
+        "description": "Seat Belt Retractor Type",
+        "type": "Car",
+        "price": "$18.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "232-1",
+        "description": "Seat Cover",
+        "type": "Car",
+        "price": "$6.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "203-3",
+        "description": "Seat Motor",
+        "type": "Car",
+        "price": "$21.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "232-2",
+        "description": "Seat Pedestal (Each)",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "203-2",
+        "description": "Seat Track Elec W/Motor (Ea)",
+        "type": "Car",
+        "price": "$28.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "203-1",
+        "description": "Seat Tracks (Each Seat)",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "215-2A",
+        "description": "Seat-Bench Type W/Pwr Lthr",
+        "type": "Car",
+        "price": "$63.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "215-1",
+        "description": "Seat-Bench W/Tracks (Man)",
+        "type": "Car",
+        "price": "$47.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "215-2",
+        "description": "Seat-Bench W/Trks (Power)",
+        "type": "Car",
+        "price": "$57.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "215-1A",
+        "description": "Seat-Bench W/Trks(Man)Lthr",
+        "type": "Car",
+        "price": "$52.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "202-1",
+        "description": "Seat-Buck(Ea)W/Track(Man)",
+        "type": "Car",
+        "price": "$35.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "202-2A",
+        "description": "Seat-Buck(Ea)W/Trk(Ele)Lthr",
+        "type": "Car",
+        "price": "$47.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "202-2",
+        "description": "Seat-Buck(Ea)W/Trk(Elect)",
+        "type": "Car",
+        "price": "$43.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "202-1A",
+        "description": "Seat-Buck(Ea)W/Trk(Man)Lthr",
+        "type": "Car",
+        "price": "$40.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "215-3",
+        "description": "Seat-Rear (Each Section)",
+        "type": "Car",
+        "price": "$20.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "215-3A",
+        "description": "Seat-Rear (Each) Leather",
+        "type": "Car",
+        "price": "$22.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "626-1",
+        "description": "Sender (Oil Or Water)",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "627-9",
+        "description": "Sensor - Abs",
+        "type": "Car",
+        "price": "$15.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "627-6",
+        "description": "Sensor - Crankshaft",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "336-1",
+        "description": "Sensor - Mass Air Flow",
+        "type": "Car",
+        "price": "$41.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "628-9",
+        "description": "Sensor-Airbag Bumper",
+        "type": "Car",
+        "price": "$14.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "627-8",
+        "description": "Sensor-Camshaft",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "627-1",
+        "description": "Sensor-Coolnt Temp/Elec Fan",
+        "type": "Car",
+        "price": "$8.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "627-2",
+        "description": "Sensor-Exhaust Heat",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "627-3",
+        "description": "Sensor-Map(Manif Abs Prs)",
+        "type": "Car",
+        "price": "$15.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "627-4",
+        "description": "Sensor-Oxygen",
+        "type": "Car",
+        "price": "$16.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "627-7",
+        "description": "Sensor-Speedometer",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "627-5",
+        "description": "Sensor-Tps (Throtl Post'N)",
+        "type": "Car",
+        "price": "$15.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "526-2",
+        "description": "Shock Absorber (Air)",
+        "type": "Car",
+        "price": "$19.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "526-1",
+        "description": "Shock Absorber (Regular)",
+        "type": "Car",
+        "price": "$7.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "526-3",
+        "description": "Shock Absorber(Spring Typ)",
+        "type": "Car",
+        "price": "$18.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "168",
+        "description": "Sidelight Lens",
+        "type": "Car",
+        "price": "$6.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "245",
+        "description": "Sill Plate",
+        "type": "Car",
+        "price": "$8.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "343-4",
+        "description": "Smog Canister",
+        "type": "Car",
+        "price": "$20.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "343-1",
+        "description": "Smog Hose (Each)",
+        "type": "Car",
+        "price": "$3.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "341",
+        "description": "Smog Pump-Bare(No Brckts)",
+        "type": "Car",
+        "price": "$25.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "343-3",
+        "description": "Smog Valve (Pcv)",
+        "type": "Car",
+        "price": "$3.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "343-2",
+        "description": "Smog Valve(Antibckfr/Gulp)",
+        "type": "Car",
+        "price": "$17.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "566-2",
+        "description": "Spare Tire Carrier",
+        "type": "Car",
+        "price": "$19.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "566-1",
+        "description": "Spare Tire Cover",
+        "type": "Car",
+        "price": "$6.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "690-1",
+        "description": "Spark Plug Or Wire (Ea)",
+        "type": "Car",
+        "price": "$1.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "661-1C",
+        "description": "Speaker Each (Hi End)",
+        "type": "Car",
+        "price": "$17.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "661-1B",
+        "description": "Speaker Each (Large)",
+        "type": "Car",
+        "price": "$8.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "661-1A",
+        "description": "Speaker Each (Small)",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "661-3",
+        "description": "Speaker Grille Over 5In",
+        "type": "Car",
+        "price": "$4.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "661-2",
+        "description": "Speaker Grille Up To 5In",
+        "type": "Car",
+        "price": "$3.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "257-1",
+        "description": "Speedometer Cable",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "257-2",
+        "description": "Speedometer Cable W/Housg",
+        "type": "Car",
+        "price": "$16.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "257",
+        "description": "Speedometer Or Tachometer",
+        "type": "Car",
+        "price": "$17.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "515",
+        "description": "Spindle",
+        "type": "Car",
+        "price": "$28.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "169",
+        "description": "Spoilers - Bolt On (Ea)",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "517",
+        "description": "Spring / Coil Type",
+        "type": "Car",
+        "price": "$21.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "516",
+        "description": "Spring / Leaf Type",
+        "type": "Car",
+        "price": "$32.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "516P",
+        "description": "Spring / Leaf Type",
+        "type": "Pick-Up/Van",
+        "price": "$38.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "604",
+        "description": "Starter",
+        "type": "Car",
+        "price": "$24.99",
+        "core_deposit": "$6.99"
+    },
+    {
+        "item_num": "605",
+        "description": "Starter Solenoid",
+        "type": "Car",
+        "price": "$7.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "238-1",
+        "description": "Steer Colmn No Tilt W/Whl",
+        "type": "Car",
+        "price": "$39.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "238-5",
+        "description": "Steer Colmn W/Abag No Tlt",
+        "type": "Car",
+        "price": "$65.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "238-6",
+        "description": "Steer Column W/Abag W/Tlt",
+        "type": "Car",
+        "price": "$72.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "551",
+        "description": "Steering Box W/Pitman Arm",
+        "type": "Car",
+        "price": "$39.99",
+        "core_deposit": "$9.99"
+    },
+    {
+        "item_num": "551P",
+        "description": "Steering Box W/Pitman Arm",
+        "type": "Pick-Up/Van",
+        "price": "$55.99",
+        "core_deposit": "$9.99"
+    },
+    {
+        "item_num": "238-3",
+        "description": "Steering Coupler",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "238-4",
+        "description": "Steering Sector Shaft",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "235-1",
+        "description": "Steering Wheel",
+        "type": "Car",
+        "price": "$18.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "235-2",
+        "description": "Steering Wheel Horn Ring",
+        "type": "Car",
+        "price": "$9.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "238-2",
+        "description": "Steerng Column W/Tilt&Whl",
+        "type": "Car",
+        "price": "$48.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "495-1",
+        "description": "Strut Mcpher Assy W/O Spin",
+        "type": "Car",
+        "price": "$30.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "495-2",
+        "description": "Strut Mcpher Assy W/Spindl",
+        "type": "Car",
+        "price": "$34.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "495-3",
+        "description": "Strut Mcpher W/Spdl/Hub/Rtr",
+        "type": "Car",
+        "price": "$50.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "153",
+        "description": "Sun Roof Assy",
+        "type": "Car",
+        "price": "$47.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "153-2",
+        "description": "Sun Roof Motor",
+        "type": "Car",
+        "price": "$29.19",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "205-1",
+        "description": "Sun Visor (Regular) Each",
+        "type": "Car",
+        "price": "$6.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "205-2",
+        "description": "Sun Visor-Lightd Mirr Typ",
+        "type": "Car",
+        "price": "$9.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "322",
+        "description": "Supercharger",
+        "type": "Car",
+        "price": "$199.99",
+        "core_deposit": "$29.99"
+    },
+    {
+        "item_num": "524",
+        "description": "Sway Bar",
+        "type": "Car",
+        "price": "$29.19",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "629-1",
+        "description": "Switch Headlight/Wiper",
+        "type": "Car",
+        "price": "$14.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "633-1",
+        "description": "Switch Ignition",
+        "type": "Car",
+        "price": "$14.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "629-4C",
+        "description": "Switch Misc (Large)",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "629-4B",
+        "description": "Switch Misc (Medium)",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "629-4A",
+        "description": "Switch Misc (Small)",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "629-6",
+        "description": "Switch Neutral Safety",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "641-2",
+        "description": "Switch Power Window(Multi)",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "641-1",
+        "description": "Switch Power Window(Single)",
+        "type": "Car",
+        "price": "$9.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "641-3",
+        "description": "Switch Seat (Power)",
+        "type": "Car",
+        "price": "$8.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "629-2",
+        "description": "Switch Turn Signal",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "629-3",
+        "description": "Switch Turn Signal Housing",
+        "type": "Car",
+        "price": "$14.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "288",
+        "description": "T-Top (Each)",
+        "type": "Car",
+        "price": "$53.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "166-2C",
+        "description": "Taillight Assy (Like New)",
+        "type": "Car",
+        "price": "$24.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "166-2B",
+        "description": "Taillight Assy (Lrg)",
+        "type": "Car",
+        "price": "$19.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "166-2A",
+        "description": "Taillight Assy (Sml)",
+        "type": "Car",
+        "price": "$14.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "167",
+        "description": "Taillight Bulb Panel",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "166-1C",
+        "description": "Taillight Lens (Like New)",
+        "type": "Car",
+        "price": "$20.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "166-1B",
+        "description": "Taillight Lens (Lrg)",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "166-1A",
+        "description": "Taillight Lens (Sml)",
+        "type": "Car",
+        "price": "$8.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "750",
+        "description": "Tee Shirt",
+        "type": "Car",
+        "price": "$6.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "686-2",
+        "description": "Thermostat",
+        "type": "Car",
+        "price": "$1.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "686-1",
+        "description": "Thermostat Housing",
+        "type": "Car",
+        "price": "$5.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "415-1",
+        "description": "Throw Out Bearing",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "415-2",
+        "description": "Throw Out Fork",
+        "type": "Car",
+        "price": "$19.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "503-2",
+        "description": "Tie Rod Assy (Each)",
+        "type": "Car",
+        "price": "$17.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "503-1",
+        "description": "Tie Rod End",
+        "type": "Car",
+        "price": "$9.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "315",
+        "description": "Timing Chain",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "316",
+        "description": "Timing Gear",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "308",
+        "description": "Timing Gear Cover (All)",
+        "type": "Car",
+        "price": "$17.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "585-1",
+        "description": "Tire 12",
+        "type": "Car",
+        "price": "$13.00",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "585-8",
+        "description": "Tire 12",
+        "type": "Car",
+        "price": "$15.00",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "585-2",
+        "description": "Tire 13",
+        "type": "Car",
+        "price": "$14.00",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "585-9",
+        "description": "Tire 13",
+        "type": "Car",
+        "price": "$16.00",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "585-3",
+        "description": "Tire 14",
+        "type": "Car",
+        "price": "$16.00",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "585-10",
+        "description": "Tire 14",
+        "type": "Car",
+        "price": "$18.00",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "585-4",
+        "description": "Tire 15",
+        "type": "Car",
+        "price": "$17.00",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "585-11",
+        "description": "Tire 15",
+        "type": "Car",
+        "price": "$19.00",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "585-5",
+        "description": "Tire 16",
+        "type": "Car",
+        "price": "$18.00",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "585-12",
+        "description": "Tire 16",
+        "type": "Car",
+        "price": "$21.00",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "585-6",
+        "description": "Tire 17",
+        "type": "Car",
+        "price": "$20.00",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "585-13",
+        "description": "Tire 17",
+        "type": "Car",
+        "price": "$23.00",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "755-1",
+        "description": "Tire Chains (Cable)",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "755",
+        "description": "Tire Chains (Non Cable)",
+        "type": "Car",
+        "price": "$9.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "585-7",
+        "description": "Tire Inflatable Spare",
+        "type": "Car",
+        "price": "$15.00",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "707",
+        "description": "Tool Boxes /P.U.",
+        "type": "Pick-Up/Van",
+        "price": "$74.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "794",
+        "description": "Tools - Test Program(Kc)",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "152",
+        "description": "Top Steel - Roof Cut",
+        "type": "Car",
+        "price": "$84.99",
+        "core_deposit": "$5.99"
+    },
+    {
+        "item_num": "365-1",
+        "description": "Top-Convertible (No Rams)",
+        "type": "Car",
+        "price": "$130.69",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "634",
+        "description": "Top-Convertible Motor",
+        "type": "Car",
+        "price": "$62.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "365-2",
+        "description": "Top-Convertible Rams Ea",
+        "type": "Car",
+        "price": "$37.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "407",
+        "description": "Torque Converter",
+        "type": "Car",
+        "price": "$28.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "521",
+        "description": "Torsion Bar",
+        "type": "Car",
+        "price": "$21.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "142-1",
+        "description": "Trailer Hitch Ball",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "142-2",
+        "description": "Trailer Hitch W/O Ball",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "507-1",
+        "description": "Trailing Arm",
+        "type": "Car",
+        "price": "$22.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "347-1",
+        "description": "Tran Cros Membr-Up To 18In",
+        "type": "Car",
+        "price": "$21.59",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "405-5",
+        "description": "Trans Cooling Lines (Ea)",
+        "type": "Car",
+        "price": "$7.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "347-2",
+        "description": "Trans Cros Membr-Ovr 18In",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "405-3",
+        "description": "Trans Dipstick",
+        "type": "Car",
+        "price": "$6.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "405-4",
+        "description": "Trans Filler Tube",
+        "type": "Car",
+        "price": "$6.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "242-1",
+        "description": "Trans Floor Shifter",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "420",
+        "description": "Trans Floor Shifter Cable",
+        "type": "Car",
+        "price": "$21.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "405-6",
+        "description": "Trans Kick-Down Linkage",
+        "type": "Car",
+        "price": "$11.89",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "402-1",
+        "description": "Trans Mount",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "242-2",
+        "description": "Trans Shifter Arm",
+        "type": "Car",
+        "price": "$6.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "242-3",
+        "description": "Trans Shifter Boot",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "242-4",
+        "description": "Trans Shifter Collar-Clmn",
+        "type": "Car",
+        "price": "$14.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "242-5",
+        "description": "Trans Shifter Console",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "242-6",
+        "description": "Trans Shifter Knob",
+        "type": "Car",
+        "price": "$3.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "405-2",
+        "description": "Trans Tail Housing",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "405-1",
+        "description": "Trans Valve Body Assembly",
+        "type": "Car",
+        "price": "$50.99",
+        "core_deposit": "$4.99"
+    },
+    {
+        "item_num": "400-4",
+        "description": "Transaxle (Automatic)",
+        "type": "Car",
+        "price": "$99.99",
+        "core_deposit": "$29.99"
+    },
+    {
+        "item_num": "400-3",
+        "description": "Transaxle (Standard)",
+        "type": "Car",
+        "price": "$99.99",
+        "core_deposit": "$29.99"
+    },
+    {
+        "item_num": "624",
+        "description": "Transducer(Cruise Control)",
+        "type": "Car",
+        "price": "$23.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "412",
+        "description": "Transfer Case 4X4",
+        "type": "Car",
+        "price": "$144.99",
+        "core_deposit": "$14.99"
+    },
+    {
+        "item_num": "425",
+        "description": "Transmission Cover/Shield",
+        "type": "Car",
+        "price": "$11.89",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "400-2",
+        "description": "Transmission Rwd (Auto)",
+        "type": "Car",
+        "price": "$99.99",
+        "core_deposit": "$29.99"
+    },
+    {
+        "item_num": "400-1",
+        "description": "Transmission Rwd (Std)",
+        "type": "Car",
+        "price": "$99.99",
+        "core_deposit": "$29.99"
+    },
+    {
+        "item_num": "405-7",
+        "description": "Transmission Solenoid Pack",
+        "type": "Car",
+        "price": "$20.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "321",
+        "description": "Turbocharger",
+        "type": "Car",
+        "price": "$69.99",
+        "core_deposit": "$9.99"
+    },
+    {
+        "item_num": "512-1",
+        "description": "U-Bolt",
+        "type": "Car",
+        "price": "$4.29",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "512-2",
+        "description": "U-Bolt Plate",
+        "type": "Car",
+        "price": "$8.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "340",
+        "description": "Vacuum Line (Per Foot)",
+        "type": "Car",
+        "price": "$2.19",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "372",
+        "description": "Vacuum Pump",
+        "type": "Car",
+        "price": "$29.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "350-2",
+        "description": "Valve Cover Aluminum",
+        "type": "Car",
+        "price": "$18.99",
+        "core_deposit": "$3.99"
+    },
+    {
+        "item_num": "350-1",
+        "description": "Valve Cover/Pan (Steel)",
+        "type": "Car",
+        "price": "$10.49",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "123",
+        "description": "Vent Panel (Cowl) Unbolt",
+        "type": "Car",
+        "price": "$24.79",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "207",
+        "description": "Vent-A/C Heater (Inside)",
+        "type": "Car",
+        "price": "$5.39",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "602",
+        "description": "Voltage Regulator",
+        "type": "Car",
+        "price": "$10.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "324",
+        "description": "Water Pump",
+        "type": "Car",
+        "price": "$16.99",
+        "core_deposit": "$1.99"
+    },
+    {
+        "item_num": "144",
+        "description": "Weatherstrip (Per Foot)",
+        "type": "Car",
+        "price": "$3.19",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "560-5",
+        "description": "Wheel & Tire Custom Set 2",
+        "type": "Car",
+        "price": "$149.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "560-6",
+        "description": "Wheel & Tire Custom Set 4",
+        "type": "Car",
+        "price": "$259.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "560-4",
+        "description": "Wheel Aluminum",
+        "type": "Car",
+        "price": "$20.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "560-3",
+        "description": "Wheel Rally Type (Bare)",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "560-1",
+        "description": "Wheel-Steel 5 Lug Or Less",
+        "type": "Car",
+        "price": "$7.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "560-2",
+        "description": "Wheel-Steel 6 Lug Or More",
+        "type": "Car",
+        "price": "$11.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "617",
+        "description": "Window Motor",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "125-2",
+        "description": "Window Regulator W/Motor",
+        "type": "Car",
+        "price": "$31.99",
+        "core_deposit": "$2.99"
+    },
+    {
+        "item_num": "125-1",
+        "description": "Window Regulator W/O Motor",
+        "type": "Car",
+        "price": "$19.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "113-3",
+        "description": "Windshield Rubber",
+        "type": "Car",
+        "price": "$10.79",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "622-3",
+        "description": "Windshield Washer Btl W/Mtr",
+        "type": "Car",
+        "price": "$12.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "708",
+        "description": "Windshield Washer Fluid",
+        "type": "Car",
+        "price": "$1.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "622-1",
+        "description": "Windshield Washer-Btl Mtr",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "621-1",
+        "description": "Windshield Wiper Arms Ea",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "621-2",
+        "description": "Windshield Wiper Linkg Assy",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "620",
+        "description": "Windshield Wiper Motor",
+        "type": "Car",
+        "price": "$26.99",
+        "core_deposit": "$0.99"
+    },
+    {
+        "item_num": "622-2",
+        "description": "Windshield Wshr Btl W/O Mtr",
+        "type": "Car",
+        "price": "$8.59",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "621-3",
+        "description": "Wiper Blades",
+        "type": "Car",
+        "price": "$0.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "650C",
+        "description": "Wire Harness No Acc (Lrg)",
+        "type": "Car",
+        "price": "$36.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "650B",
+        "description": "Wire Harness No Acc (Med)",
+        "type": "Car",
+        "price": "$25.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "650A",
+        "description": "Wire Harness No Acc (Sml)",
+        "type": "Car",
+        "price": "$13.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "648",
+        "description": "Wire Pigtail-1 To 4 Wires",
+        "type": "Car",
+        "price": "$3.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "649",
+        "description": "Wire Pigtail-5 Or More Wire",
+        "type": "Car",
+        "price": "$5.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "709",
+        "description": "Work Gloves",
+        "type": "Car",
+        "price": "$3.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "442-1",
+        "description": "Yoke - Drive Shaft",
+        "type": "Car",
+        "price": "$8.99",
+        "core_deposit": "$0.00"
+    },
+    {
+        "item_num": "442-2",
+        "description": "Yoke - Rear End",
+        "type": "Car",
+        "price": "$9.69",
+        "core_deposit": "$0.00"
+    }
+]

@@ -1,0 +1,202 @@
+@import url(https://fonts.googleapis.com/css?family=Andika);
+
+*
+{
+margin:0px;
+padding:0px;
+outline:none;
+}
+
+html{
+    max-width:100%;
+    min-height:100%;
+    position:relative;
+}
+ 
+body{
+background:darkblue;
+padding:10px;
+font-family:'Andika', sans-serif;
+color:#000;
+}
+header
+{
+width:100%;
+height:40px;
+background:#1b2125;
+position:relative;
+}
+h4
+{
+text-align:center;
+color:#c4daee;
+font-size:1.1em;
+padding:10px 0px;
+}
+
+#mobilescreen
+{
+width:340px;
+height:480px;
+background:#fff;
+margin:0 auto;
+position:relative;
+overflow:hidden;
+border:2px solid #ccc;
+padding:20px 5px 100px 5px;
+border-radius:20px;
+box-shadow:0px 5px 5px 0px #ccc;
+}
+
+#maincontainer
+{
+width:320px;
+margin:0 auto;
+background-color:rgb(49, 46, 78);
+position:relative;
+overflow: hidden;
+height:100%;
+}
+
+#mainscreen
+{
+position:absolute;
+height:100%;
+left:0px;
+top:0px;
+width:100%; 
+-webkit-transition:0.2s;
+-ms-transition:0.2s;
+-o-transition:0.2s;
+-moz-transition:0.2s;
+transition:0.2s;     
+}
+
+section
+{
+padding:0px;
+margin:0px;
+}
+
+
+.showmenu
+{
+left:0px!important;
+-webkit-transition:0.2s;
+-ms-transition:0.2s;
+-o-transition:0.2s;
+-moz-transition:0.2s;
+transition:0.2s;
+}
+#mainmenu ul li:hover
+{
+color:#f36175;
+}
+.fa-align-justify
+{
+color:#cd2f44;
+position:absolute;
+left:0px;
+top:0px;
+height:50px;
+width:50px;
+display:table-cell;
+line-height:55px;
+text-align:center;
+cursor:pointer;
+}
+
+.fa-cog
+{
+color:yellow;
+position:absolute;
+right:0px;
+top:0px;
+height:50px;
+width:50px;
+display:table-cell;
+line-height:50px;
+text-align:center;
+cursor:pointer;
+}
+
+h1
+{
+width:100%;
+text-align:center;
+color:#fff;
+font-size:1.25em;
+height:50px;
+line-height:50px;
+}
+footer
+{
+position:absolute;
+bottom:0px;
+left:0px;
+width:100%;
+height:45px;
+}
+
+#back-button
+{
+background:#c83b4e;
+color:rgb(238, 225, 225);
+}
+#logout-button
+{
+background:#ffd371;
+}
+
+.intro
+{
+text-align:center;
+font-size:0.8em;
+color:#b9cbdb;
+}
+button
+{
+width:50%;
+border:none;
+height:50px;
+font-size:0.8em;
+font-weight:bold;
+cursor:pointer;
+}
+#inputs{
+    max-width:90%;
+    padding:.5em;
+    
+}
+label{
+    color:rgb(254, 254, 189);
+    
+}
+input{
+    background-color:white;
+    height:20px;
+    width:inherit;
+
+
+}
+#part-name{
+    width:59%;
+}
+#optional{
+    color:rgb(254, 254, 189);
+}
+#markings{
+    width:100%;
+}
+
+#location{
+    width:100%;
+}
+#start-button{
+    height:30px;
+    margin-left:55%;
+    margin-top:15px;
+    background-color:teal;
+    color:white;
+    box-shadow:2px 3px black;
+}
