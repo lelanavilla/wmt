@@ -1,21 +1,107 @@
 <!DOCTYPE html>
- <html class="no-js"> <!--<![endif]-->
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Worth my time</title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="styles.css">
-    
-    </head>
-    <body>
-        <div id="root"></div>
-        
-        
-        <!-- <script src="main.js"></script> -->
-        <!-- <script src="./app.js"></script> -->
-   <script src="https://cdnjs.cloudfare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Worth my time</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <script>
+        // Parse the response and build an HTML table to display search results
+        function _cb_findItemsByKeywords(root) {
+            var items = root.findItemsByKeywordsResponse[0].searchResult[0].item || [];
+            var html = [];
+            html.push('<table width="100%" border="0" cellspacing="0" cellpadding="3"><tbody>');
+            for (var i = 0; i < items.length; ++i) {
+                var item = items[i];
+                var title = item.title;
+                var pic = item.galleryURL;
+                var viewitem = item.viewItemURL;
+                var soldMaxPrice = item.maxPrice.value;
+                var profitMargin = highestProfitMargin();
+                if (null != title && null != viewitem) {
+                    html.push('<tr><td>' + '<img src="' + pic + '" border="0">' + '</td>' +
+                        '<td><a href="' + viewitem + '" target="_blank">' + title + '</a></td></tr>' +
+                        '<tr><td>"Sold for: "' + soldMaxPrice + '</td></tr>' +
+                        '<tr><td>"Expected profit margin: "' + profitMargin + '"</td></tr>');
+                }
+            }
+        }
+        html.push('</tbody></table>');
+        document.getElementById("results").innerHTML = html.join("");
+
+        var url ='https//svcs.ebay.com/services/search/FindingService/v1?SECURITY-APPNAME=LelanaVi-WorthMyT-SBX-3abd43d69-6e060e5a=&OPERATION-NAME=findItemsAdvanced&SERVICE-VERSION=1.0.0&RESPONSE-DATA-FORMAT=JSON&keywords=merecedes%20relays&catergoryID=6028&item.filter.name=Condition,itemFilter.value=3000&itemFilter.name=SoldItemsOnly,itemFilter.value=true&sortedOrder=PricePlusShippingHighest&callback=_cb_findItemsByKeywords&paginationInput.entriesPerPage=10&url += urlfilter;';
+        s = document.createElement('script'); //create script element
+        s.src = url;
+        document.body.appendChild(s);
+        var filteredArray = [{
+           "name":"CatergoryID",
+            "catergory_value": 6028
+        },
+        {
+            "name": "MaxPrice",
+            "value": "",
+            "paramName":"Currency",
+            "paramValue":"USD"
+        },
+           {
+
+          "name":"ListingType",
+          "value": [ {"name":"SoldItemsOnly", "value":true},{"name":"Condition", "value":3000}]            
+           },
+        //    {
+        //     "name":"SoldItemsOnly",
+        //      "value":true
+        // },
+        {
+            "name":"SortOrder",
+            "value": "PricePlusShippingHighest"
+        }];
+        var urlfilter ="";
+        // Generates an indexed URL snippet from the array of item filters
+function  buildURLArray() {
+  // Iterate through each filter in the array
+  for(var i=0; i<filterarray.length; i++) {
+    //Index each item filter in filterarray
+    var itemfilter = filterarray[i];
+    // Iterate through each parameter in each item filter
+    for(var index in itemfilter) {
+      // Check to see if the paramter has a value (some don't)
+      if (itemfilter[index] !== "") {
+        if (itemfilter[index] instanceof Array) {
+          for(var r=0; r<itemfilter[index].length; r++) {
+          var value = itemfilter[index][r];
+          urlfilter += "&itemFilter\(" + i + "\)." + index + "\(" + r + "\)=" + value ;
+          }
+        }
+        else {
+          urlfilter += "&itemFilter\(" + i + "\)." + index + "=" + itemfilter[index];
+        }
+      }
+    }
+  }
+}  // End buildURLArray() function
+
+// Execute the function to build the URL filter
+buildURLArray(filterarray);
+
+        //end _cb_findItemsByKeywords
+    </script>
+</head>
+
+<body>
+    <div id="root"></div>
+    <div id="results"></div>
    
-    </body>
+    <script>
+    </script>
+    <!-- <script src="main.js"></script> -->
+    <!-- <script src="./app.js"></script> -->
+    <script src="https://cdnjs.cloudfare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+</body>
+
 </html>

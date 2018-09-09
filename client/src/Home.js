@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link} from 'react-router-dom';
-
+// import QueryInputs from '/QueryInputs.js'
 
 function Home (props){
     return(
@@ -20,8 +20,8 @@ function Home (props){
             <p className="intro">A Used Auto Part Profit Margin Analyst Tool</p>
             <ul id="listlink">
             <li><div></div>
-            <span className="titles"
-            ><Link to="/queryinputs" path="./QueryInputs.js"><i className="fa fa-plus-square"></i>Search Sold Parts</Link></span><span className="offdata"></span></li>
+            <span className="titles">
+            <Link to="/queryinputs" path="./QueryInputs.js"><i className="fa fa-plus-square"></i>Search Sold Parts</Link></span><span className="offdata"></span></li>
             <li><div></div><span className="titles"><i className="fa fa-tag"></i>Check Parts Price List</span><span className="offdata"></span></li>
             {/* <!-- <li><div></div><span className="titles"><i className="fa fa-bar-chart-o"></i>My Account</span><span className="offdata"></span></li> --> */}
             <li><div></div><span className="titles"><i className="fa fa-tags"></i>My Saved Parts List</span><span className="offdata"></span></li>
