@@ -30,7 +30,9 @@ function Home (props){
             </ul>
             </section>
             <footer>
-            <nav><button id="login-button">Login/Signup</button><button id="logout-button">Logout</button></nav>
+            <nav>
+                <Link to="/signup"><button id="login-button">Login/Signup</button></Link>
+                <button id="logout-button">Logout</button></nav>
             </footer>
             </section>
             </section>
@@ -41,4 +43,4 @@ function Home (props){
     )
     
 }
-export default Home
+export default Home;
